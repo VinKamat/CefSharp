@@ -13,9 +13,17 @@ _ReSharper*
 
 obj/
 bin/
+Debug/
 CefSharp/app.aps
 TestResult.xml
 debug.log
-/Release/CefSharp.Wpf.Example.exe.config
-/Release/CefSharp.WinForms.Example.exe.config
-/Debug
+Release/CefSharp.Wpf.Example.vshost.exe
+Release/CefSharp.Wpf.Example.vshost.exe.config
+Release/CefSharp.Wpf.Example.exe.config
+Release/CefSharp.Winforms.Example.vshost.exe
+Release/CefSharp.Winforms.Example.vshost.exe.config
+Release/CefSharp.WinForms.Example.exe.config
+Release/CefSharp.dll
+Release/CefSharp.Wpf.dll
+Release/CefSharp.Wpf.Example.exe
+Release/CefSharp.Example.dll
